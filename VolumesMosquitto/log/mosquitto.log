@@ -35,3 +35,81 @@
 1765269614: Sending PINGRESP to postman-mqtt-client-1765269069272
 1765269674: Received PINGREQ from postman-mqtt-client-1765269069272
 1765269674: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765269734: Received PINGREQ from postman-mqtt-client-1765269069272
+1765269734: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765269794: Received PINGREQ from postman-mqtt-client-1765269069272
+1765269794: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765269854: Received PINGREQ from postman-mqtt-client-1765269069272
+1765269854: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765269914: Received PINGREQ from postman-mqtt-client-1765269069272
+1765269914: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765269974: Received PINGREQ from postman-mqtt-client-1765269069272
+1765269974: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765270034: Received PINGREQ from postman-mqtt-client-1765269069272
+1765270034: Sending PINGRESP to postman-mqtt-client-1765269069272
+1765270093: mosquitto version 2.0.22 terminating
+1765270145: mosquitto version 2.0.22 starting
+1765270145: Config loaded from /mosquitto/config/mosquitto.conf.
+1765270145: Opening ipv4 listen socket on port 1883.
+1765270145: Opening ipv6 listen socket on port 1883.
+1765270145: mosquitto version 2.0.22 running
+1765271464: New connection from 172.20.0.1:54672 on port 1883.
+1765271464: New client connected from 172.20.0.1:54672 as postman-mqtt-client-1765271464520 (p5, c0, k60).
+1765271464: No will message specified.
+1765271464: Sending CONNACK to postman-mqtt-client-1765271464520 (0, 0)
+1765271464: Received SUBSCRIBE from postman-mqtt-client-1765271464520
+1765271464: 	TopicControle (QoS 0)
+1765271464: postman-mqtt-client-1765271464520 0 TopicControle
+1765271464: Sending SUBACK to postman-mqtt-client-1765271464520
+1765271524: Received PINGREQ from postman-mqtt-client-1765271464520
+1765271524: Sending PINGRESP to postman-mqtt-client-1765271464520
+1765271551: Received DISCONNECT from postman-mqtt-client-1765271464520
+1765271551: Client postman-mqtt-client-1765271464520 disconnected.
+1765271688: mosquitto version 2.0.22 terminating
+1765271688: mosquitto version 2.0.22 starting
+1765271688: Config loaded from /mosquitto/config/mosquitto.conf.
+1765271688: Opening ipv4 listen socket on port 1883.
+1765271688: Opening ipv6 listen socket on port 1883.
+1765271688: Opening websockets listen socket on port 9005.
+1765271688: mosquitto version 2.0.22 running
+1765271831: New connection from 172.20.0.1:55284 on port 1883.
+1765271831: New client connected from 172.20.0.1:55284 as postman-mqtt-client-1765271831013 (p5, c0, k60).
+1765271831: No will message specified.
+1765271831: Sending CONNACK to postman-mqtt-client-1765271831013 (0, 0)
+1765271831: Received SUBSCRIBE from postman-mqtt-client-1765271831013
+1765271831: 	TopicControle (QoS 0)
+1765271831: postman-mqtt-client-1765271831013 0 TopicControle
+1765271831: Sending SUBACK to postman-mqtt-client-1765271831013
+1765271891: Received PINGREQ from postman-mqtt-client-1765271831013
+1765271891: Sending PINGRESP to postman-mqtt-client-1765271831013
+1765271922: mosquitto version 2.0.22 terminating
+1765271926: mosquitto version 2.0.22 starting
+1765271926: Config loaded from /mosquitto/config/mosquitto.conf.
+1765271926: Opening ipv4 listen socket on port 1883.
+1765271926: Opening ipv6 listen socket on port 1883.
+1765271926: Opening websockets listen socket on port 9005.
+1765271926: mosquitto version 2.0.22 running
+1765272160: mosquitto version 2.0.22 terminating
+1765272163: mosquitto version 2.0.22 starting
+1765272163: Config loaded from /mosquitto/config/mosquitto.conf.
+1765272163: Opening ipv4 listen socket on port 1883.
+1765272163: Opening ipv6 listen socket on port 1883.
+1765272163: Opening websockets listen socket on port 9005.
+1765272163: mosquitto version 2.0.22 running
+1765272686: New client connected from ::ffff:172.20.0.1:60098 as mqttx_2e1c9acb (p5, c1, k60).
+1765272686: No will message specified.
+1765272686: Sending CONNACK to mqttx_2e1c9acb (0, 0)
+1765272686: Received SUBSCRIBE from mqttx_2e1c9acb
+1765272686: 	BTS (QoS 0)
+1765272686: mqttx_2e1c9acb 0 BTS
+1765272686: Sending SUBACK to mqttx_2e1c9acb
+1765272686: Received SUBSCRIBE from mqttx_2e1c9acb
+1765272686: 	CIEL (QoS 0)
+1765272686: mqttx_2e1c9acb 0 CIEL
+1765272686: Sending SUBACK to mqttx_2e1c9acb
+1765272692: Received PUBLISH from mqttx_2e1c9acb (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765272692: Sending PUBLISH to mqttx_2e1c9acb (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765272704: Received PUBLISH from mqttx_2e1c9acb (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765272704: Sending PUBLISH to mqttx_2e1c9acb (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765272737: Received PUBLISH from mqttx_2e1c9acb (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
+1765272737: Sending PUBLISH to mqttx_2e1c9acb (d0, q0, r0, m0, 'CIEL', ... (32 bytes))
