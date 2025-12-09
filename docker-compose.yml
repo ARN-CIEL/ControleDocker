@@ -7,9 +7,9 @@ services:
     volumes: 
       - ./VolumesMosquitto/config:/mosquitto/config 
       - ./VolumesMosquitto/data:/mosquitto/data 
-      - ./VolumesMosquitto/log:/mosquitto/log 
-  
-  mqtt_clientweb:
+      - ./VolumesMosquitto/log:/mosquitto/log
+
+mqtt_clientweb:
     image: emqx/mqttx-web
     container_name: mqtt_mqttx-web
     ports:
